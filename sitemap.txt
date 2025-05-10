@@ -1,0 +1,3 @@
+http://www.exampledomain.com/index.html
+https://www.exampledomain.com/about_us.html
+https://www.exampledomain.com/contact.html
